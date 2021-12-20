@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dil Desteği</string>
+    <string name="hello">Merhaba</string>
+    <string name="toast">Bu bir toast masajidir</string>
+</resources>
